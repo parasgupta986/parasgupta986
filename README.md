@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
+
  
 <h1 align="center">Hi 👋, I'm PARAS GUPTA</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
